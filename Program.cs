@@ -5,7 +5,7 @@ Personaje personaje = new Personaje
     Nombre = "Arthas",
     Clase = "Guerrero",
     Nivel = 10,
-    Vida = -999,
+    Vida = 100,
     Mana = 50
 };
 
